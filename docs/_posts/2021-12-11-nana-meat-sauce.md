@@ -25,4 +25,4 @@ categories: Italian
 
 1. Saute onion in olive oil in sauce pan. Quickly saute garlic once onion is almost translucent.
 1. Brown ground beef in another pan and drain fat. Add to sauce pan.
-1. Add remaining ingredients to sauce pan. Bring to a boil and reduce heat to simmer covered for at least 45 minutes.
+1. Add remaining ingredients to sauce pan. Bring to a boil and reduce heat to simmer for at least 45 minutes. Partly cover to avoid splattering.
