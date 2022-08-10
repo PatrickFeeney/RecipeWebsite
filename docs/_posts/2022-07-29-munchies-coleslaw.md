@@ -27,4 +27,4 @@ For vinaigrette:
 
 ### Source
 
-[Matty Makes Oven Baked BBQ Ribs| It's Suppertime!](https://www.youtube.com/watch?v=ps0pz4Tv1pU)
+[Matty Makes Oven Baked BBQ Ribs It's Suppertime!](https://www.youtube.com/watch?v=ps0pz4Tv1pU)
