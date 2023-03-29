@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Munchies Coleslaw"
+title:  Munchies Coleslaw
 date:   2022-07-29 16:30:00 -0500
-categories: American
+category: American
 ---
 
 ### Ingredients

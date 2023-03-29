@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Stuffed Mushrooms"
+title:  Stuffed Mushrooms
 date:   2022-01-06 12:08:24 -0500
-categories: American
+category: American
 ---
 
 ### Ingredients

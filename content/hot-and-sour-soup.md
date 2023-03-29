@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sichuan Homestyle Hot and Sour Soup"
+title:  Sichuan Homestyle Hot and Sour Soup
 date:   2021-12-31 13:08:24 -0500
-categories: Chinese
+category: Chinese
 ---
 
 ### Ingredients

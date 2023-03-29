@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Nana's Meat Sauce"
+title:  Nana's Meat Sauce
 date:   2021-12-11 14:08:24 -0500
-categories: Italian
+category: Italian
 ---
 
 ### Ingredients
