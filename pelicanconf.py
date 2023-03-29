@@ -1,6 +1,6 @@
 AUTHOR = 'Patrick Feeney'
 SITENAME = 'RecipeWebsite'
-SITEURL = ''
+SITEURL = 'https://patrickfeeney.github.io/RecipeWebsite'
 
 PATH = 'content'
 
