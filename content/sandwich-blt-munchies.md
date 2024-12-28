@@ -9,11 +9,11 @@ category: American
 
 - Ciabatta rolls/loaf
 - Fleshy tomatoes, such as heirloom varities
-- Iceburg lettuce
+- Iceberg lettuce
 - Bacon
 - Mayonnaise
 - Malt vinegar
-- Tobasco
+- Tabasco
 
 ### Steps
 
